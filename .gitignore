@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+.DS_Store
+srdi_report_*.html
+srdi_application_*.txt
